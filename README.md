@@ -5,7 +5,7 @@ Sistema de Gestión de Entradas con Registro en Línea. -Proyecto Final para la 
 * Django (Python)
 
 ## Front-End:
-* Bulma: Bulma es un framework CSS gratuito y de código abierto basado en Flexbox y utilizado por más de 200.000 desarrolladores.
+* Bulma: es un framework CSS gratuito y de código abierto basado en Flexbox y utilizado por más de 200.000 desarrolladores.
 
 ## Desarrollador:
 * Gabriel Roa (https://github.com/gaboroa14)
